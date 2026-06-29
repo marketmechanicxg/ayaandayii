@@ -31,11 +31,11 @@ const RECIPIENT_NAME = "Putu Chiara Widya Ayu Putri";           // ← GANTI NAM
    Lalu ganti judul dan nama artis di bawah ini.                  */
 const MUSIC_TRACKS = [
   {
-    title:  "So High School",             // ← GANTI JUDUL LAGU
-    artist: "Taylor Swift",                   // ← GANTI NAMA ARTIS
+    title:  "Hold Me Tight",             // ← GANTI JUDUL LAGU
+    artist: "Skyline",                   // ← GANTI NAMA ARTIS
     src:    "assets/music/song1.mp3",    //   (nama file mp3 — jangan diubah kecuali nama filenya beda)
     cover:  "assets/music/song1.jpeg",   //   (nama file cover — jangan diubah kecuali nama filenya beda)
-    startTime: 0,                           // ← MULAI DARI DETIK KE BERAPA
+    startTime: 49,                           // ← MULAI DARI DETIK KE BERAPA
   },
 ];
 
